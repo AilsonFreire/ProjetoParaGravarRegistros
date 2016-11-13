@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TesteVariasTelas</string>
+    <string name="btn1">Vai para Tela 2</string>
+    <string name="btn2">Volta para tela 1</string>
+    <string name="btn3">Vai para a tela 3</string>
+    <string name="btn4">Volta para a tela2</string>
+    <string name="btn5">Volta para a tela 1</string>
+</resources>
