@@ -5,4 +5,5 @@
     <string name="btn3">Vai para a tela 3</string>
     <string name="btn4">Volta para a tela2</string>
     <string name="btn5">Volta para a tela 1</string>
+    <string name="btn6">Gravar</string>
 </resources>
